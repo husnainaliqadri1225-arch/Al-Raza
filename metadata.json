@@ -1,0 +1,6 @@
+{
+  "name": "Al Raza",
+  "description": "Luxury perfume store showcasing artisanal scents with seamless Shopify auto-sync, elegant mobile design, and secure owner admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
